@@ -6,7 +6,6 @@ __pycache__/
 .env
 .env.*
 !.env.example
-artifacts/
 .coverage
 htmlcov/
 .DS_Store
