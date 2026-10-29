@@ -48,6 +48,6 @@ The same severity can demand different developer action depending on directness,
 - [LLM Firewall and RAG Security Lab](https://github.com/niketkrishnan/llm-firewall-rag-security-lab) — AI application policy controls.
 - [Cloud Attack-Path Prioritizer](https://github.com/niketkrishnan/cloud-attack-path-prioritizer) — graph-ranked exposure.
 - [Identity Compromise Detector](https://github.com/niketkrishnan/identity-compromise-detector) — behavioral ML with privacy safeguards.
-- [Portfolio site](https://github.com/niketkrishnan/HTML-Website) — recruiter-facing overview.
+- [Portfolio site](https://niketkrishnan.github.io) — resume-aligned project map.
 
 For security concerns, use a private GitHub Security Advisory or contact [@niketkrishnan](https://github.com/niketkrishnan). Never include private dependency manifests or credentials in issues.
